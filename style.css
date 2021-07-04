@@ -1,0 +1,32 @@
+/*<style>
+#00264C
+
+</style>*/
+.attribution { font-size: 11px; text-align: center; }
+.attributiona { color: hsl(228, 45%, 44%); }
+
+.title{
+  background-color: #00264C;
+}
+body{
+
+  background-color:black;
+  color: white;
+}
+span{
+  color: purple;
+}
+.left{
+  padding: 14rem 4rem;
+  background-color:   #00264C;
+
+}
+.words{
+  text-align: center;
+
+}
+img{
+  max-width: 100%;
+  height:auto;
+  align-items: left;
+}
